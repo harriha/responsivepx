@@ -1,6 +1,4 @@
-h1. Responsivepx
-
-This is a tweaked version of @rem's awesome responsivepx tool ("https://github.com/remy/responsivepx":https://github.com/remy/responsivepx, live service at "http://responsivepx.com":http://responsivepx.com).
+This is a tweaked version of "@rem's":http://twitter.com/rem awesome responsivepx tool ("https://github.com/remy/responsivepx":https://github.com/remy/responsivepx, live service at "http://responsivepx.com":http://responsivepx.com).
 
 Added features:
 
