@@ -1,0 +1,9 @@
+h1. Responsivepx
+
+This is a tweaked version of @rem's awesome responsivepx tool ("https://github.com/remy/responsivepx":https://github.com/remy/responsivepx, live service at "http://responsivepx.com":http://responsivepx.com).
+
+Added features:
+
+* Support for manual creation of predefined resolution values
+** Saved to localStorage, so they are preserved between page loads (note: doesn't work in Firefox if loaded as a local file)
+** Switch easily between the saved presets using Ctrl+[LeftArrow|RightArrow]
